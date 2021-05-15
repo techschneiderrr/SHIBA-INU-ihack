@@ -8,7 +8,7 @@ This is an effort to bring together and verify all the contacts of the needed re
 
 ## Web Apps
 
-Secondary (Flutter Version) - [click here]()
+Secondary (Flutter Version) - [click here](https://techschneiderrr.github.io/SHIBA-INU-web-deployment/)
 
 ---
 
